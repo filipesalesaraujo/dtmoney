@@ -17,7 +17,7 @@ createServer({
           category: "food",
           createAt: new Date(),
         },
-      ]
+      ];
     });
   },
 });
