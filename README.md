@@ -19,9 +19,9 @@ Para instalar o dtmoney, siga estas etapas:
 
 Linux, macOS e Windows:
 ```
-git clone https://github.com/Nikolas-as/DT_Money.git
+git clone https://github.com/filipesalesaraujo/dtmoney
 
-cd DT_Money
+cd dtmoney
 
 yarn start
 ```
